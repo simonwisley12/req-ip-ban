@@ -1,6 +1,6 @@
 {
   "name": "req-ip-ban",
-  "version": "3.3.2",
+  "version": "3.3.3",
   "description": "A small Node.js module to retrieve the request's IP address",
   "keywords": [],
   "homepage": "https://github.com/takeshiproton/req-bans",
